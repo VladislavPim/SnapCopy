@@ -165,9 +165,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ## Acknowledgments
 
 - Built with [Qt 6](https://www.qt.io/)
-- Inspired by clipboard managers like Ditto and CopyQ
-- Thanks to all contributors and testers
-
+- 
 ## Contact
 
 Project Link: [https://github.com/VladislavPim/snapcopy](https://github.com/VladislavPim/snapcopy)
