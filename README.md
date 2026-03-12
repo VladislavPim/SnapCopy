@@ -1,6 +1,3 @@
-Вот обновлённый README.md с вашим юзернеймом:
-
-```markdown
 # SnapCopy
 
 SnapCopy is a lightweight background application for Windows that monitors your clipboard and maintains a searchable history of copied text. It stays conveniently accessible via a sleek, draggable overlay bar.
